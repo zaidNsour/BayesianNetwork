@@ -22,3 +22,8 @@ This project implements a Bayesian network in Java, providing a framework for mo
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/your-username/bayesian-network.git
+   ```
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd bayesian-network
+   ``` 
