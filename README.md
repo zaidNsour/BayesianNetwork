@@ -26,4 +26,24 @@ This project implements a Bayesian network in Java, providing a framework for mo
 2. **Navigate to the Project Directory**:
    ```bash
    cd bayesian-network
-   ``` 
+   ```
+3. **Compile the Java Files**:
+    ```bash
+   javac bayesian/*.java
+   ```
+4. **Run the Main Program**:
+    ```bash
+   java bayesian.Main
+   ```
+
+## Future Directions
+
+- Enhance the Bayesian network by incorporating additional features such as learning algorithms for model refinement and scalability improvements for handling larger datasets.
+
+- Expand the project with advanced inference techniques and visualization tools for better understanding and analysis of the Bayesian network.
+
+## Contribution 
+
+Contributions to the project are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
+
+   
